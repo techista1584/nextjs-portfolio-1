@@ -7,12 +7,12 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "React Portfolio Website",
+    title: "WebStudio",
     description: "Project 1 description",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "/",
-    previewUrl: "/",
+    previewUrl: "https://techista1584.github.io/goit-markup-hw-07/",
   },
   {
     id: 2,
